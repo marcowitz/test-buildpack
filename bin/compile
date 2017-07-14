@@ -1,3 +1,5 @@
 #!/bin/sh
 
-echo "-----> Test Buildpack"
+echo ">>> TEST BUILDPACK START <<<"
+echo "-----> PATH: "$PATH
+echo ">>> TEST BUILDPACK END <<<"
