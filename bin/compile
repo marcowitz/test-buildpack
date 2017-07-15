@@ -4,4 +4,5 @@ echo ">>> TEST BUILDPACK START <<<"
 echo "-----> PATH: "$PATH
 echo "-----> INSTALLING FORTRAN"
 sudo apt-get install gfortran
+pip install metakernel
 echo ">>> TEST BUILDPACK END <<<"
