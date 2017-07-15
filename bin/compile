@@ -3,5 +3,5 @@
 echo ">>> TEST BUILDPACK START <<<"
 echo "-----> PATH: "$PATH
 echo "-----> INSTALLING FORTRAN"
-sudo apt-get install libgfortran3:i386
+sudo apt-get install gfortran
 echo ">>> TEST BUILDPACK END <<<"
